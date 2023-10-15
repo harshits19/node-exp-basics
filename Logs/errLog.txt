@@ -1,0 +1,2 @@
+13/10/2023	17:46:16	bea1dfe8-d4fa-47ed-8501-a860d480a408	Error	Not allowed by cors
+13/10/2023	17:46:56	2b84deaa-bc20-42b7-87ee-47d8ee958cd5	Error	Not allowed by cors

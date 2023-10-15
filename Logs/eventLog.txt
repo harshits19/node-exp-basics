@@ -1,0 +1,3 @@
+11/10/2023	21:39:54	9f3b9113-6ef2-4570-9fed-19e316fd180b	New log event
+11/10/2023	21:42:06	2ae569bf-0da8-4090-887b-bc1e22da8130	log event emitted!
+11/10/2023	21:43:54	806a2f4d-89d2-4d46-b8f4-8dd9b1b16f41	log event emitted!
